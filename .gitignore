@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente
+.env
+
+# Credenciais de banco
+db/evo_db_creds.json
